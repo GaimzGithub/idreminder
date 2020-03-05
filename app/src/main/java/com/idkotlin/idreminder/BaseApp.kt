@@ -14,7 +14,8 @@ class BaseApp : Application() {
     companion object {
         lateinit var appComponent: ApplicationComponent
     }
-
+//Nelson Bangsad
+    Yes
     override fun onCreate() {
         super.onCreate()
         appComponent = createApplicationComponent()
