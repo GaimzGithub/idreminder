@@ -17,6 +17,7 @@ class BaseApp : Application() {
 //Nelson Bangsad DIA GAY
 //Saya setuju
     //Abun Gans
+    //Jelas!!
     override fun onCreate() {
         super.onCreate()
         appComponent = createApplicationComponent()
