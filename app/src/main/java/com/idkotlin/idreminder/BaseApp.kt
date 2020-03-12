@@ -15,7 +15,7 @@ class BaseApp : Application() {
         lateinit var appComponent: ApplicationComponent
     }
 //Nelson Bangsad DIA GAY
-
+//Saya setuju
     override fun onCreate() {
         super.onCreate()
         appComponent = createApplicationComponent()
