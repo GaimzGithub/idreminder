@@ -21,6 +21,7 @@ class BaseApp : Application() {
     //anji
     //Mantap
     //erroroakwowakowakokwaok
+    //Ricardo teks
     override fun onCreate() {
         super.onCreate()
         appComponent = createApplicationComponent()
