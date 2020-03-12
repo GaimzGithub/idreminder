@@ -18,6 +18,7 @@ class BaseApp : Application() {
 //Saya setuju
     //Abun Gans
     //Jelas!!
+    //Mantap
     override fun onCreate() {
         super.onCreate()
         appComponent = createApplicationComponent()
