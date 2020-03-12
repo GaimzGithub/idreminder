@@ -14,7 +14,7 @@ class BaseApp : Application() {
     companion object {
         lateinit var appComponent: ApplicationComponent
     }
-//Nelson Bangsad
+//Nelson Bangsad DIA GAY
     Yes
     override fun onCreate() {
         super.onCreate()
