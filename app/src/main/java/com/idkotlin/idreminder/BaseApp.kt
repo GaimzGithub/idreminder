@@ -19,6 +19,7 @@ class BaseApp : Application() {
     //Abun Gans
     //Jelas!!
     //Mantap
+    //Paling Ganteng
     override fun onCreate() {
         super.onCreate()
         appComponent = createApplicationComponent()
